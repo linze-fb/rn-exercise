@@ -8,7 +8,7 @@ Manage user profiles with some specific features for a mobile app. Here's what y
 5. **Swipe to Get New Profile**: Implement a swipe gesture to fetch a new user profile.
 6. **Editable Fields**: Allow users to edit the name, email, and phone number via an Edit -> Save button at the bottom of the card. Implement a function to save the edited version to the API, and refresh the data immediately.
 
-API endpoints:
-URL: `https://user-workers-demo.alexpear.workers.dev`
-Returns a list of user profiles: `GET /users`
-Edit user info (email and name): `PATCH /users/:id`
+API endpoints:\
+URL: `https://user-workers-demo.alexpear.workers.dev`\
+Returns a list of user profiles: `GET /users`\
+Edit user info (email and name): `PATCH /users/:id`\
